@@ -10,22 +10,22 @@ const PRECACHE = 'precache-v1';
 const RUNTIME = 'runtime';
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "huangxuan.me",
-  "yanshuo.io",
-  "cdnjs.cloudflare.com"
-]
+  // "huangxuan.me",
+  // "yanshuo.io",
+  // "cdnjs.cloudflare.com"
+];
 
 
 // The Util Function to hack URLs of intercepted requests
 const getFixedUrl = (req) => {
   var now = Date.now();
-  url = new URL(req.url)
+  url = new URL(req.url);
 
   // 1. fixed http URL
   // Just keep syncing with location.protocol 
   // fetch(httpURL) belongs to active mixed content. 
   // And fetch(httpRequest) is not supported yet.
-  url.protocol = self.location.protocol
+  url.protocol = self.location.protocol;
 
   // 2. add query for caching-busting.
   // Github Pages served with Cache-Control: max-age=600
