@@ -1,6 +1,6 @@
 title: leemiracle
 SEOTitle: lwz的博客 | by blog
-header-img: img/paul.jpg
+header-img: img/guan-lan-gao-shou.jpg
 email: lovebooklife@gmail.com
 description: "to be unique"
 keyword: "math, computer, finance, algorithm, Commerce"
@@ -11,12 +11,12 @@ github_repo: "https://github.com/leemiracle/leemiracle.github.io.git"
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/guan-lan-gao-shou.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/paul.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
 RSS: false
-zhihu_username:     leemiracle
+zhihu_username:     miracle-lee-21
 github_username:    leemiracle
 
 
