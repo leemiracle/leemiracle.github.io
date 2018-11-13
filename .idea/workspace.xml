@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-12-数学基础.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="370">
-                <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+              <first_editor relative-caret-position="234">
+                <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -463,8 +463,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-12-数学基础.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="370">
-            <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+          <first_editor relative-caret-position="234">
+            <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
